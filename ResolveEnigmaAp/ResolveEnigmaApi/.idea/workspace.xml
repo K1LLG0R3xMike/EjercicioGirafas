@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7236f345-5f3b-4832-a386-c585acb4785a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Base/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Base/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Base/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Base/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Base/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Base/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Base/src/main/java/com/app/alumno/AlumnoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Base/src/main/java/com/app/alumno/controller/AlumnoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Base/src/main/java/com/app/alumno/entity/Alumno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Base/src/main/java/com/app/alumno/repository/AlumnoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Base/src/main/java/com/app/alumno/service/AlumnoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Base/src/main/java/com/app/alumno/service/AlumnoServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Base/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Base/src/test/java/com/app/formulario/FormularioApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Operaciones/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Operaciones/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Operaciones/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Operaciones/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Operaciones/bin/Utilidades$MetodoBurbuja.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Operaciones/bin/Utilidades.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Operaciones/src/Utilidades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.project" beforeDir="false" afterPath="$PROJECT_DIR$/../.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/META-INF/maven/co.com.vanegas.service.resolveEnigmaApi/resolve-enigma-api/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/META-INF/maven/co.com.vanegas.service.resolveEnigmaApi/resolve-enigma-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/co/com/vanegas/microservice/resolveEnigmaApi/api/ApiResponseMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/co/com/vanegas/microservice/resolveEnigmaApi/api/ApiResponseMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/co/com/vanegas/microservice/resolveEnigmaApi/config/CustomInstantDeserializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/co/com/vanegas/microservice/resolveEnigmaApi/config/CustomInstantDeserializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-entidad/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-entidad/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-entidad/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-entidad/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-entidad/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-entidad/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-entidad/src/main/java/com/common/entidad/entity/Acudiente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-entidad/src/main/java/com/common/entidad/entity/Alumno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-entidad/src/main/java/com/common/entidad/entity/Asignatura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-entidad/src/main/java/com/common/entidad/entity/Curso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-entidad/src/main/java/com/common/entidad/entity/Docente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-entidad/src/main/java/com/common/entidad/entity/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-entidad/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-entidad/src/test/java/com/common/usuario/CommonUsuarioApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-microservicio/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-microservicio/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-microservicio/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-microservicio/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-microservicio/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-microservicio/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-microservicio/src/main/java/com/common/microservicio/controller/CommonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-microservicio/src/main/java/com/common/microservicio/service/CommonService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-microservicio/src/main/java/com/common/microservicio/service/CommonServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-microservicio/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../common-microservicio/src/test/java/com/common/microservicio/CommonMicroservicioApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../formulario/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../formulario/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../formulario/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../formulario/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../formulario/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../formulario/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../formulario/src/main/java/com/app/formulario/FormularioApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../formulario/src/main/java/com/app/formulario/controller/FormularioController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../formulario/src/main/java/com/app/formulario/entity/Formulario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../formulario/src/main/java/com/app/formulario/repository/FormularioRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../formulario/src/main/java/com/app/formulario/service/FormularioService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../formulario/src/main/java/com/app/formulario/service/FormularioServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../formulario/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../formulario/src/test/java/com/app/formulario/FormularioApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-acudiente/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-acudiente/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-acudiente/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-acudiente/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-acudiente/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-acudiente/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-acudiente/src/main/java/com/app/microservicio/acudiente/MicroservicioAcudienteApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-acudiente/src/main/java/com/app/microservicio/acudiente/controller/AcudienteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-acudiente/src/main/java/com/app/microservicio/acudiente/repository/AcudienteRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-acudiente/src/main/java/com/app/microservicio/acudiente/service/AcudienteSerciceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-acudiente/src/main/java/com/app/microservicio/acudiente/service/AcudienteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-acudiente/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-acudiente/src/test/java/com/app/microservicio/acudiente/MicroservicioAcudienteApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-alumno/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-alumno/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-alumno/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-alumno/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-alumno/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-alumno/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-alumno/src/main/java/com/app/microservicio/alumno/MicroservicioAlumnoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-alumno/src/main/java/com/app/microservicio/alumno/controller/AlumnoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-alumno/src/main/java/com/app/microservicio/alumno/repository/AlumnoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-alumno/src/main/java/com/app/microservicio/alumno/service/AlumnoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-alumno/src/main/java/com/app/microservicio/alumno/service/AlumnoServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-alumno/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-alumno/src/test/java/com/app/microservicio/alumno/MicroservicioAlumnoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-asignatura/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-asignatura/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-asignatura/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-asignatura/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-asignatura/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-asignatura/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-asignatura/src/main/java/com/app/microservicio/asignatura/MicroservicioAsignaturaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-asignatura/src/main/java/com/app/microservicio/asignatura/controller/AsignaturaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-asignatura/src/main/java/com/app/microservicio/asignatura/repository/AsignaturaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-asignatura/src/main/java/com/app/microservicio/asignatura/service/AsignaturaService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-asignatura/src/main/java/com/app/microservicio/asignatura/service/AsignaturaServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-asignatura/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-asignatura/src/test/java/com/app/microservicio/asignatura/MicroservicioAsignaturaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-colegio/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-colegio/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-colegio/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-colegio/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-colegio/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-colegio/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-colegio/src/main/java/com/app/microservicio/colegio/MicroservicioColegioApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-colegio/src/main/java/com/app/microservicio/colegio/controller/ColegioController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-colegio/src/main/java/com/app/microservicio/colegio/entity/Colegio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-colegio/src/main/java/com/app/microservicio/colegio/repository/ColegioRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-colegio/src/main/java/com/app/microservicio/colegio/service/ColegioSerciceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-colegio/src/main/java/com/app/microservicio/colegio/service/ColegioService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-colegio/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-colegio/src/test/java/com/app/microservicio/colegio/MicroservicioColegioApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-curso/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-curso/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-curso/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-curso/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-curso/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-curso/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-curso/src/main/java/com/app/microservicio/curso/MicroservicioCursoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-curso/src/main/java/com/app/microservicio/curso/controller/CursoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-curso/src/main/java/com/app/microservicio/curso/repository/CursoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-curso/src/main/java/com/app/microservicio/curso/service/CursoSerciceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-curso/src/main/java/com/app/microservicio/curso/service/CursoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-curso/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-curso/src/test/java/com/app/microservicio/curso/MicroservicioCursoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-docente/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-docente/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-docente/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-docente/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-docente/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-docente/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-docente/src/main/java/com/app/microservicio/docente/MicroservicioDocenteApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-docente/src/main/java/com/app/microservicio/docente/controller/DocenteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-docente/src/main/java/com/app/microservicio/docente/repository/DocenteRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-docente/src/main/java/com/app/microservicio/docente/service/DocenteSerciceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-docente/src/main/java/com/app/microservicio/docente/service/DocenteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-docente/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-docente/src/test/java/com/app/microservicio/docente/MicroservicioDocenteApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-usuario/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-usuario/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-usuario/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-usuario/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-usuario/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-usuario/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-usuario/src/main/java/com/app/microservicio/usuario/MicroservicioUsuarioApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-usuario/src/main/java/com/app/microservicio/usuario/controller/UsuarioController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-usuario/src/main/java/com/app/microservicio/usuario/repository/UsuarioRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-usuario/src/main/java/com/app/microservicio/usuario/service/UsuarioService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-usuario/src/main/java/com/app/microservicio/usuario/service/UsuarioServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-usuario/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../microservicio-usuario/src/test/java/com/app/microservicio/usuario/MicroservicioUsuarioApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-postgresql-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-postgresql-master/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-postgresql-master/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-postgresql-master/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-postgresql-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-postgresql-master/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-postgresql-master/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-postgresql-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-postgresql-master/src/main/java/com/bezkoder/spring/jpa/postgresql/SpringBootJpaPostgresqlApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-postgresql-master/src/main/java/com/bezkoder/spring/jpa/postgresql/controller/TutorialController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-postgresql-master/src/main/java/com/bezkoder/spring/jpa/postgresql/model/Tutorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-postgresql-master/src/main/java/com/bezkoder/spring/jpa/postgresql/repository/TutorialRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-postgresql-master/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-postgresql-master/src/test/java/com/bezkoder/spring/jpa/postgresql/SpringBootJpaPostgresqlApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
+  <component name="ProjectId" id="2lGa92P2eSq43hgffCqi7I2Y4Yo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7236f345-5f3b-4832-a386-c585acb4785a" name="Changes" comment="" />
+      <created>1724808713303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724808713303</updated>
+      <workItem from="1724808714199" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
